@@ -1,5 +1,7 @@
 ## Hi there 👋, Am Jima Benjamin Wani
 
+ - I graduated with a diploma in Software Engineering Last year
+
  - I have primarily been a Javascript developer for the last Two years 
   
  - I have also worked with wordpress and some nocode tools.
