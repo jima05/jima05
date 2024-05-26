@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, Am Jima Benjamin Wani
+
+  I have primarily been a Javascript developer for the last Two years
+  I have also worked with wordpress and some nocode tools.
+  I am currently Learning Flutter and exploring React Navite as I find Mobile applications More interesting.
+
 
 <!--
 **jima05/jima05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
