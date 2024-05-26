@@ -1,8 +1,10 @@
 ## Hi there 👋, Am Jima Benjamin Wani
 
-  I have primarily been a Javascript developer for the last Two years
-  I have also worked with wordpress and some nocode tools.
-  I am currently Learning Flutter and exploring React Navite as I find Mobile applications More interesting.
+ - I have primarily been a Javascript developer for the last Two years 
+  
+ - I have also worked with wordpress and some nocode tools.
+   
+ - I am currently Learning Flutter and exploring React Navite as I find Mobile applications More interesting.
 
 
 <!--
